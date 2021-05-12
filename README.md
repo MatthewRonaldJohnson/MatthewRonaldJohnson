@@ -18,4 +18,4 @@ My Technical Skills include
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 If you wish to contact me I can be reached at <a href="mailto:MatthewRonaldJohnson@gmail.com">MatthewRonaldJohnson@gmail.com</a>.  
-If you would like to view some of my projects check out my pinned repositories or visit my personal portfolio site <a href="https://pensive-meninsky-c6e4e6.netlify.app/" target="__blank">visit my personal portfolio site</a>.
+If you would like to view some of my projects check out my pinned repositories or visit my personal portfolio site <a href="https://pensive-meninsky-c6e4e6.netlify.app/" target="_blank">visit my personal portfolio site</a>.
