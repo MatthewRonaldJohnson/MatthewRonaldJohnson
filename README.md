@@ -1,6 +1,6 @@
 ### Hi, I'm Matthew Johnson
 
-<img src="https://raw.githubusercontent.com/MatthewRonaldJohnson/MatthewRonaldJohnson/main/Assets/Matthew_Johnson.png" alt="banner img">
+<!-- <img src="https://raw.githubusercontent.com/MatthewRonaldJohnson/MatthewRonaldJohnson/main/Assets/Matthew_Johnson.png" alt="banner img"> -->
 
 I'm a full-stack web developer who recently earned a Certificate in Web Developer from the University of Arizona Bootcamp. 
 
