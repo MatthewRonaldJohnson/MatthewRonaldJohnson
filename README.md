@@ -2,7 +2,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/MatthewRonaldJohnson/MatthewRonaldJohnson/main/Assets/Matthew_Johnson.png" alt="banner img"> -->
 
-I'm a full-stack web developer who recently earned a Certificate in Web Developer from the University of Arizona Bootcamp.  
+I'm a full stack web developer who recently earned a Certificate in Web Developer from the University of Arizona Bootcamp.  
 
 My Technical Skills include  
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
