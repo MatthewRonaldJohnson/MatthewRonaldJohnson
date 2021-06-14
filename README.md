@@ -17,7 +17,7 @@ My Technical Skills include
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-I'm currently studying Python and learning how to use AWS. 
+I'm currently learning how to use AWS. 
 
 If you wish to contact me I can be reached at <a href="mailto:MatthewRonaldJohnson@gmail.com">MatthewRonaldJohnson@gmail.com</a>.  
 If you would like to view some of my projects check out my pinned repositories or <a href="https://pensive-meninsky-c6e4e6.netlify.app/">visit my personal portfolio site</a>.
