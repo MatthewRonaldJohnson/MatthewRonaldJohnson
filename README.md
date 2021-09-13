@@ -4,7 +4,7 @@
 
 I'm a full stack web developer who recently earned a Certificate in Full Stack Web Development from the University of Arizona Coding Bootcamp. 
 
-Currently I work as a Web Development Tutor for 2U but am looking for a full-time web developer job. 
+Currently I'm working as an Associate with InfoSys. 
 
 My Technical Skills include  
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -19,7 +19,3 @@ My Technical Skills include
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-I am teaching myself the C# programming language as well as building new React projects.
-
-If you wish to contact me I can be reached at <a href="mailto:MatthewRonaldJohnson@gmail.com">MatthewRonaldJohnson@gmail.com</a>.  
-If you would like to view some of my projects check out my pinned repositories or <a href="https://pensive-meninsky-c6e4e6.netlify.app/">visit my personal portfolio site</a>.
